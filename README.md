@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning 
 - 🌱 I’m currently learning more about Transformer Networks and their application in Bioinformatics
 - :books: I have a BSc in Computer Engineering and currently I'm getting my Master's in Computer Science
-- 📫 How to reach me: moeinhasani77@gmail.com
+- 📫 YOu can reach me by sending me and email or connect with me on LinkedIn
 
 <!---
 Moeinh77/Moeinh77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
