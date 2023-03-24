@@ -19,3 +19,4 @@ Here's a list of the projects I have done during the years, I have provided a li
 
 ## 2019
 * Segmentation of moon surface with U-Net, Python	[link](https://github.com/Moeinh77/Rock-Segmentation-Artificial-Lunar-Landscape)
+* Loans records analysis using classical ML models [link](https://github.com/Moeinh77/IBM-final-project-Machine-Learning)
