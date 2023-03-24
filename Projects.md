@@ -1,4 +1,4 @@
-A list of the projects that I have done which you can find in my github:
+Here's a list of the projects I have done during the years, I have provided a link to each one that takes you to the related github repository.
 
 ## 2023
 * Virus DNA Classification using DNA-BERT, Python [link](https://github.com/Moeinh77/Virus-DNA-classification-BERT)
