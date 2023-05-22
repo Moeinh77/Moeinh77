@@ -2,6 +2,7 @@ Here's a list of the projects I have done during the years, I have provided a li
 
 ## 2023
 * Virus DNA Classification using DNA-BERT, Python [link](https://github.com/Moeinh77/Virus-DNA-classification-BERT)
+* Twitter sentiment analysis using DistilBERT, Python [link](https://github.com/Moeinh77/Twitter_sentiment_analysis_distilBert)
 
 ## 2022
 * Gender classification from 3D Brain MRI dataset, Python [link](https://github.com/Moeinh77/Gender-Classification-on-3D-MRI)
